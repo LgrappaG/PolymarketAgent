@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2026-04-13T16:12:54.741683",
+    "market": "Demo: Bitcoin above $50k",
+    "claude_confidence": 0.72,
+    "predicted_direction": "BUY",
+    "actual_outcome": "CORRECT",
+    "correct": true
+  },
+  {
+    "id": 2,
+    "timestamp": "2026-04-13T16:54:26.548936",
+    "market": "Will Biden lead Democratic ticket 2028?",
+    "claude_confidence": 0.85,
+    "predicted_direction": "BUY",
+    "actual_outcome": "PENDING",
+    "correct": false
+  },
+  {
+    "id": 3,
+    "timestamp": "2026-04-13T16:54:26.552932",
+    "market": "Arbitrage: Polymarket vs Competitor",
+    "claude_confidence": 0.9000000000000001,
+    "predicted_direction": "BUY",
+    "actual_outcome": "PENDING",
+    "correct": false
+  },
+  {
+    "id": 4,
+    "timestamp": "2026-04-13T16:57:32.273123",
+    "market": "Will Biden lead Democratic ticket 2028?",
+    "claude_confidence": 0.85,
+    "predicted_direction": "BUY",
+    "actual_outcome": "PENDING",
+    "correct": false
+  },
+  {
+    "id": 5,
+    "timestamp": "2026-04-13T16:57:32.277124",
+    "market": "Arbitrage: Polymarket vs Competitor",
+    "claude_confidence": 0.9000000000000001,
+    "predicted_direction": "BUY",
+    "actual_outcome": "PENDING",
+    "correct": false
+  },
+  {
+    "id": 6,
+    "timestamp": "2026-04-13T17:01:07.338903",
+    "market": "Will Biden lead Democratic ticket 2028?",
+    "claude_confidence": 0.85,
+    "predicted_direction": "BUY",
+    "actual_outcome": "PENDING",
+    "correct": false
+  },
+  {
+    "id": 7,
+    "timestamp": "2026-04-13T17:01:07.343903",
+    "market": "Arbitrage: Polymarket vs Competitor",
+    "claude_confidence": 0.9000000000000001,
+    "predicted_direction": "BUY",
+    "actual_outcome": "PENDING",
+    "correct": false
+  },
+  {
+    "id": 8,
+    "timestamp": "2026-04-13T17:06:15.257288",
+    "market": "Will Biden lead Democratic ticket 2028?",
+    "claude_confidence": 0.85,
+    "predicted_direction": "BUY",
+    "actual_outcome": "PENDING",
+    "correct": false
+  },
+  {
+    "id": 9,
+    "timestamp": "2026-04-13T17:06:15.263285",
+    "market": "Arbitrage: Polymarket vs Competitor",
+    "claude_confidence": 0.9000000000000001,
+    "predicted_direction": "BUY",
+    "actual_outcome": "PENDING",
+    "correct": false
+  }
+]

@@ -1,0 +1,47 @@
+# Polymarket AI Agent - Python Requirements
+# Python 3.10+
+
+# Core LLM & AI
+anthropic>=0.25.0
+openai>=1.0.0  # fallback
+
+# Blockchain & Trading
+web3>=6.11.0
+py-clob-client>=0.3.0
+eth-keys>=0.4.0
+
+# Data Collection & Processing
+aiohttp>=3.9.0
+requests>=2.31.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Data Validation & Config
+pydantic>=2.5.0
+pydantic-settings>=2.0.0
+python-dotenv>=1.0.0
+pyyaml>=6.0
+
+# Specific API Clients
+tweepy>=4.14.0  # Twitter/X API
+newsapi>=0.1.1
+
+# Utilities
+tenacity>=8.2.0  # retry logic
+httpx>=0.25.0  # async HTTP
+pytz>=2023.3
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.1.0
+pytest-mock>=3.12.0
+
+# Development
+black>=23.12.0
+flake8>=6.1.0
+mypy>=1.7.0
+isort>=5.13.0
+
+# Logging & Monitoring
+python-json-logger>=2.0.7
